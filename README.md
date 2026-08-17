@@ -16,9 +16,9 @@ El objetivo principal es disponer de una aplicación que pueda ejecutarse de man
 
 | Integrante | Rol / Especialidad |
 |---|---|
-| **Desarrollador 1** | Fabio Ticona Frontend & UI/UX |
-| **Desarrollador 2** | Rodrigo Gutierrez Backend & Cloud Architecture |
-| **Desarrollador 3** | Josias Zarate DevOps & Network Administration |
+| **Desarrollador 1 Fabio Ticona** | Frontend & UI/UX |
+| **Desarrollador 2 Rodrigo Gutierrez** |  Backend & Cloud Architecture |
+| **Desarrollador 3 Josias Zarate ** | DevOps & Network Administration |
 
 ---
 
